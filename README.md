@@ -1,9 +1,11 @@
-# [DIO](www.dio.me) - Trilha Java Básico
+#  POO - Desafio
+----
 
-## Autores
-- [Gleyson Sampaio](https://github.com/glysns)
 
-## POO - Desafio
+# IDE de minha preferência:
+- ## Netbeans
+
+
 
 ### Modelagem e Diagramação de um Componente iPhone
 
@@ -61,4 +63,7 @@ classDiagram
 
 ```bash
 https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
-```` 
+````
+## Autores
+- [Gleyson Sampaio](https://github.com/glysns)
+- ---
